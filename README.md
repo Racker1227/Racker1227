@@ -35,7 +35,7 @@ Migrated legacy Selenium suites to Playwright for improved stability and speed
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rushikeshwadme) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rushikesh_wadme/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](
 www.linkedin.com/in/rushikeshwadme27)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rushiwadme@gmail.com) 
 
 <!-- Snake Game Repo View -->
